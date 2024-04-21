@@ -1,1 +1,1 @@
-# Hit
+# Hit.io
